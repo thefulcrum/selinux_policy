@@ -13,7 +13,7 @@ supports 'ubuntu'
 supports 'debian'
 supports 'amazon'
 
-depends 'compat_resource', '>= 12.16.3'
+#depends 'compat_resource', '>= 12.16.3'
 
 #source_url 'https://github.com/sous-chefs/selinux_policy'
 #issues_url 'https://github.com/sous-chefs/selinux_policy/issues'
